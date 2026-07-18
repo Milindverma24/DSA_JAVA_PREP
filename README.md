@@ -20,6 +20,7 @@ Goals
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -37,4 +38,8 @@ Goals
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
