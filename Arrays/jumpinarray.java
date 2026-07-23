@@ -32,3 +32,4 @@ public class jumpinarray {
         sc.close();
     }
 }
+
