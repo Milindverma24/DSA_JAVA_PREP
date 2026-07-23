@@ -5,10 +5,10 @@
 <p><strong>Note:</strong> An array <code>A</code> rotated by <code>x</code> positions results in an array <code>B</code> of the same length such that <code>B[i] == A[(i+x) % A.length]</code> for every valid index <code>i</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [3,4,5,1,2]
+<strong>Input:</strong> nums =[3,4,5,1,2]
 <strong>Output:</strong> true
 <strong>Explanation:</strong> [1,2,3,4,5] is the original sorted array.
 You can rotate the array by x = 2 positions to begin on the element of value 3: [3,4,5,1,2].
