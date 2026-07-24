@@ -20,6 +20,7 @@ Goals
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
@@ -53,4 +54,8 @@ Goals
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
