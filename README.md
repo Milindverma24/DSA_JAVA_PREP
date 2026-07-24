@@ -54,6 +54,7 @@ Goals
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0263-ugly-number) |
 ## Hash Table
 |  |
 | ------- |
