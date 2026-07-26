@@ -24,6 +24,7 @@ Goals
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@ Goals
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,4 +67,8 @@ Goals
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
