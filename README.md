@@ -28,6 +28,7 @@ Goals
 | [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -68,6 +69,7 @@ Goals
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -77,4 +79,5 @@ Goals
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
