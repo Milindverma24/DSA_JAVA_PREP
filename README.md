@@ -80,4 +80,8 @@ Goals
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
