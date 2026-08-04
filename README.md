@@ -27,6 +27,7 @@ Goals
 | [0074-search-a-2d-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -58,15 +59,18 @@ Goals
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -76,6 +80,7 @@ Goals
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +107,8 @@ Goals
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
