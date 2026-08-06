@@ -24,6 +24,7 @@ Goals
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@ Goals
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -111,4 +113,8 @@ Goals
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
