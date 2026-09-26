@@ -45,6 +45,7 @@ Goals
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0541-reverse-string-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ Goals
 | [0058-length-of-last-word](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
 | ------- |
