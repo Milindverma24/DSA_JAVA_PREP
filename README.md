@@ -75,6 +75,7 @@ Goals
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -94,6 +95,7 @@ Goals
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0151-reverse-words-in-a-string) |
@@ -121,4 +123,8 @@ Goals
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
