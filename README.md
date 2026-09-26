@@ -83,6 +83,7 @@ Goals
 | ------- |
 | [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
 ## Simulation
@@ -110,6 +111,7 @@ Goals
 | [0058-length-of-last-word](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0345-reverse-vowels-of-a-string) |
