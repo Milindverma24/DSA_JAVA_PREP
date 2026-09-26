@@ -51,6 +51,7 @@ Goals
 | [0557-reverse-words-in-a-string-iii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0917-reverse-only-letters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Goals
 | ------- |
 | [0867-transpose-matrix](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Goals
 | [0541-reverse-string-ii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0917-reverse-only-letters) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
