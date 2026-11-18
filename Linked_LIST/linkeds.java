@@ -49,6 +49,27 @@ public class linkeds{
             }
             return count;
         }
+
+        void insert_at_index(int idx,int data){
+            Node t = new Node(data);
+            Node temp = head;
+
+            if(idx==size()){
+                insertend(data);
+                return;
+            }
+            else if (idx==0){
+                insertatstart(data);
+                return;
+            }
+
+            for(int i =1;i<=idx-1;i++){
+                temp=temp.next;
+            }
+            t.next=temp.next;
+            temp.next=t;
+
+        }
    }
 
    
@@ -70,6 +91,10 @@ public class linkeds{
     System.out.println();
 
     System.out.println(ll.size());
+
+    ll.insert_at_index(5, 100);
+    ll.display();
+    System.out.println();
 
     
    }
