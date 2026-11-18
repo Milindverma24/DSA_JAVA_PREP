@@ -22,6 +22,17 @@ public class linkeds{
                 tail = temp;
             }
         }
+        void insertatstart(int data){
+            Node temp = new Node(data);
+            if(head==null){
+                head = temp;
+                tail = temp;
+            }
+            else{
+                temp.next=head;
+                head=temp;
+            }
+        }
         void display(){
             Node current = head;
             while(current!=null){
@@ -44,12 +55,23 @@ public class linkeds{
 
    public static void main(String[]args){
     linkedllist ll = new linkedllist();
+    ll.insertatstart(50);
+    ll.display();
+    System.out.println();
+
     ll.insertend(10);
     ll.insertend(20);
     ll.insertend(30);
     ll.display();
     System.out.println();
+
+    ll.insertatstart(40);
+    ll.display();
+    System.out.println();
+
     System.out.println(ll.size());
+
+    
    }
 
    
