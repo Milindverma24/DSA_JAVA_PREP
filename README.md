@@ -147,4 +147,8 @@ Goals
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
