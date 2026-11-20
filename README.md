@@ -44,6 +44,7 @@ Goals
 | [0088-merge-sorted-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0344-reverse-string) |
@@ -84,6 +85,7 @@ Goals
 | ------- |
 | [0001-two-sum](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
@@ -152,5 +154,6 @@ Goals
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
