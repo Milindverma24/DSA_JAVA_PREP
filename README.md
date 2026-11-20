@@ -53,6 +53,7 @@ Goals
 | [0557-reverse-words-in-a-string-iii](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0917-reverse-only-letters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
@@ -158,4 +159,5 @@ Goals
 | [0160-intersection-of-two-linked-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
