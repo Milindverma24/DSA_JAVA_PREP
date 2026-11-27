@@ -1,46 +1,67 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
 
+        // If the linked list is empty, return null.
         if (head == null) {
             return null;
         }
 
-        ListNode oddHead = new ListNode(0);
-        ListNode evenHead = new ListNode(0);
+        // Dummy node for the even-positioned list.
+        ListNode ehead = new ListNode(0);
 
-        ListNode oddTail = oddHead;
-        ListNode evenTail = evenHead;
+        // Dummy node for the odd-positioned list.
+        ListNode ohead = new ListNode(0);
 
+        // Pointer to traverse the original linked list.
         ListNode temp = head;
-        int position = 1;
 
+        // Pointer to add nodes to the even list.
+        ListNode tempe = ehead;
+
+        // Pointer to add nodes to the odd list.
+        ListNode tempo = ohead;
+
+        // Start counting positions from 1.
+        int number = 1;
+
+        // Traverse the original linked list.
         while (temp != null) {
 
-            if (position % 2 != 0) {
-                oddTail.next = new ListNode(temp.val);
-                oddTail = oddTail.next;
+            // Store the next node before changing links.
+            ListNode nextNode = temp.next;
+
+            // Check if the current position is odd.
+            if (number % 2 != 0) {
+
+                // Add the current node to the odd list.
+                tempo.next = temp;
+
+                // Move the odd pointer forward.
+                tempo = tempo.next;
+
             } else {
-                evenTail.next = new ListNode(temp.val);
-                evenTail = evenTail.next;
+
+                // Add the current node to the even list.
+                tempe.next = temp;
+
+                // Move the even pointer forward.
+                tempe = tempe.next;
             }
 
-            temp = temp.next;
-            position++;
+            // Move to the next original node.
+            temp = nextNode;
+
+            // Increase the position counter.
+            number++;
         }
 
-        
-        oddTail.next = evenHead.next;
+        // Terminate the even list.
+        tempe.next = null;
 
-        return oddHead.next;
+        // Connect the odd list to the even list.
+        tempo.next = ehead.next;
+
+        // Return the odd list, skipping its dummy node.
+        return ohead.next;
     }
 }
