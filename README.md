@@ -57,6 +57,7 @@ Goals
 | [0876-middle-of-the-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ Goals
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Goals
 | [0328-odd-even-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
