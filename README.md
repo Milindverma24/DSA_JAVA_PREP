@@ -85,6 +85,7 @@ Goals
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@ Goals
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -184,6 +186,7 @@ Goals
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Milindverma24/DSA_JAVA_PREP/tree/master/0234-palindrome-linked-list) |
